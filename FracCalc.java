@@ -15,7 +15,7 @@ public class FracCalc {
    // the mathematical operation on fractions. or, quit.
    // DO NOT CHANGE THIS METHOD!!
    public static void main(String[] args) {
-   
+      processExpression("-1_1/2 + -1/-2");
       // initialize to false so that we start our loop
       boolean done = false;
       
